@@ -8,6 +8,6 @@ const productos = [
     {id:7, nombre:"Motherboard 1200 10°Gen - Asus Prime B460M-A R2.0", componente:"Motherboard", marca:"Asus", precio:25499, imagen:"mother-b460m.png", socket:"LGA1200"},
     {id:8, nombre:"Motherboard AM4 - Asrock B550M HDV", componente:"Motherboard", marca:"Asrock", precio:27999, imagen:"mother-B550M.png", socket:"AM4"},
     {id:9, nombre:"Motherboard 1700 12°Gen - Gigabyte GA-Z690 GAMING X DDR4", componente:"Motherboard", marca:"Gigabyte", precio:92999, imagen:"mother-z690.png", socket:"LGA1700"},
-    {id:9, nombre:"Memoria Ram DDR4 - 4Gb 2666 Mhz Adata Value", componente:"Memoria Ram", marca:"Adata", precio:10009, imagen:"ram-ddr4-4gb-2666.png"},
+    {id:10, nombre:"Memoria Ram DDR4 - 4Gb 2666 Mhz Adata Value", componente:"Memoria Ram", marca:"Adata", precio:10009, imagen:"ram-ddr4-4gb-2666.png"},
     
 ];
